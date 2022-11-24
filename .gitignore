@@ -1,0 +1,4 @@
+.*
+codes/wandb
+__pycache__/
+!/.gitignore
