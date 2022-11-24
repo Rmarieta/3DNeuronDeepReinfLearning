@@ -2,7 +2,11 @@
 
 This repository contains the implementation of my Master thesis at EPFL described in the [project report](res/thesis_final_report.pdf). The implementation code is private and has not been publicly released so all the scripts are left empty on this repository.
 
-<a href='./res/thesis_final_report.pdf'><img src='./res/cover_thesis.png' width='60%'></a>
+<br />
+<p align="center">
+<a href='./res/thesis_final_report.pdf'><img src='./res/cover_thesis.png' width='40%'></a>
+</p>
+<br />
 
 ## Abstract :
 
@@ -30,4 +34,7 @@ real data use cases.
 
 ## Example of an animated reconstruction on a small synthetic 3D neuron
 
-<img src='./res/neuron_gifs/neuron_1.gif' width='80%'>
+<br />
+<p align="center">
+<img src='./res/neuron_gifs/neuron_1.gif' width='60%'>
+<br />
