@@ -32,7 +32,7 @@ information and significant gaps in the annotations expose the need for more acc
 annotations for the complete assessment of the applicability of the proposed approach to
 real data use cases.
 
-## Example of an animated reconstruction on a small synthetic 3D neuron
+## Example of an animated reconstruction on a 3D neuron
 
 <br />
 <p align="center">
