@@ -32,9 +32,14 @@ information and significant gaps in the annotations expose the need for more acc
 annotations for the complete assessment of the applicability of the proposed approach to
 real data use cases.
 
-## Example of an animated reconstruction on a 3D neuron
+## Example of an animated reconstruction on a 3D testing neuron
 
 <br />
 <p align="center">
 <img src='./res/neuron_gifs/neuron_1.gif' width='60%'>
-<br />
+</p>
+
+<p align="center">
+In red: the true segmentation, and in green: the predicted reconstruction.
+</p>
+
