@@ -1,4 +1,4 @@
-# Towards Reconstructing Graph-Based Models of Neuronal Arborizations from 3D Microscopy Scans
+# Deep Reinforcement Learning to Reconstruct Neurons from 3D Biomedical Images
 
 This repository contains the implementation of my Master thesis at EPFL described in the [project report](res/thesis_final_report.pdf). The implementation code is private and has not been publicly released so all the scripts are left empty on this repository.
 
